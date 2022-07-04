@@ -4,7 +4,7 @@ My name is ✨ _Adriana Guadalupe Gómez Hinojosa✨_ I'm 21 years old and I'm f
 Coding is one of my biggest passions!
 
 ## Professional Path 🤓
-I am studying Computational Systems Engineering, and I'm a React Native Dev at ✨ _Bright Coders✨_
+I am studying Computational Systems Engineering and I'm a ✨ _React Native and React Developer✨_ .
 
 ## Currently working on.. 🔭
 - React Native for iOS and Android
