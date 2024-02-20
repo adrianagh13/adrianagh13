@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-My name is ✨ _Adriana Guadalupe Gómez Hinojosa✨_ I'm 21 years old and I'm from Colima, Mx.
+My name is ✨ _Adriana Guadalupe Gómez Hinojosa✨_ I'm 23 years old and I'm from Colima, Mx.
 Coding is one of my biggest passions!
 
 ## Professional Path 🤓
-I am studying Computational Systems Engineering and I'm a ✨ _React Native and React Developer✨_ .
+I'm studying Computational Systems Engineering and I'm a _✨ Fullstack Developer✨_ .
 
 ## Currently working on.. 🔭
-- React Native for iOS and Android
-- React JS
-- HTML & CSS
 - Javascript
+- Typescript
+- HTML && CSS
+- Node.js
+- React
 - Redux
-- Node.JS
+- React Native
+- Java
+- Python
 
 [![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianagh13)](https://github.com/anuraghazra/github-readme-stats)
 
