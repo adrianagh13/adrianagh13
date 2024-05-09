@@ -14,8 +14,6 @@ I'm studying Computational Systems Engineering and I'm a _✨ Fullstack Develope
 - React
 - Redux
 - React Native
-- Java
-- Python
 
 [![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianagh13)](https://github.com/anuraghazra/github-readme-stats)
 
